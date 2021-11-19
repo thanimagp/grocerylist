@@ -1,0 +1,85 @@
+{
+    "list":[{
+        "Serialnumber":1,
+        "Name": "Rice",
+        "Quantity": 15,
+        "Unit":"Kg",
+        "Department":"Cereals",
+        "Note": "Matta"
+    },
+   {
+        "Serialnumber":2,
+        "Name": "Wheat",
+        "Quantity": 5,
+        "Unit":"Kg",
+        "Department":"Cereals",
+        "Note": "good"
+    },
+   
+   {
+        "Serialnumber":3,
+        "Name": "Tomato",
+        "Quantity": 2,
+        "Unit":"Kg",
+        "Department":"Vegetables",
+        "Note": "Organic"
+    },
+    {
+        "Serialnumber":4,
+        "Name": "Brinjal",
+        "Quantity": 1,
+        "Unit":"Kg",
+        "Department":"Vegetables",
+        "Note": "Organic"
+    },
+    {
+        "Serialnumber":5,
+        "Name": "Oranges",
+        "Quantity": 2,
+        "Unit":"Kg",
+        "Department":"Fruits",
+        "Note": "Riped"
+    },
+   {
+        "Serialnumber":6,
+        "Name": "Pencil",
+        "Quantity": 1,
+        "Unit":"packet",
+        "Department":"Stationary",
+        "Note": "Apsara"
+    },
+   {
+        "Serialnumber":7,
+        "Name": "Book",
+        "Quantity":1,
+        "Unit":"5",
+        "Department":"Stationary",
+        "Note": "Long size"
+    },
+   {
+        "Serialnumber":8,
+        "Name": "Juice",
+        "Quantity":3,
+        "Unit":"litre",
+        "Department":"Bevarage",
+        "Note": "Mango juice 1 L"
+    },
+    {
+        "Serialnumber":9,
+        "Name": "Milk",
+        "Quantity":1,
+        "Unit":"Litre",
+        "Department":"NA",
+        "Note": "Milma"
+    },
+   {
+        "Serialnumber":10,
+        "Name": "Egg",
+        "Quantity":2,
+        "Unit":"Dozen",
+        "Department":"NA",
+        "Note": "NA"
+    }
+    ]
+
+}
